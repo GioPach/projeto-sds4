@@ -1,1 +1,1 @@
-System developed during the Semana Spring React event promoted by DevSuperior in 2021. 
+Software developed during the Spring React Week, an event promoted by DevSuperior in 2021. 
